@@ -2,27 +2,27 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Grunyar Consulting
+email: michelle@grunyar.com
+description: "Like the Old Guard, we are held in reserve for the problems that matter most — organizational transformation, community-level challenges, strategic decisions with long consequences and little margin for error."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Graeme Rudd
   pic: 1
-  position: Lead Designer
+  position: Partner
   social:
-    - title: twitter
+    - title: LinkedIn
       url: #
     - title: facebook
       url: #
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Michelle Rudd
   pic: 2
-  position: Lead Marketer
+  position: Partner
   social:
     - title: twitter
       url: #
